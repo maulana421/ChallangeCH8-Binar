@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">challenge</string>
+    <string name="tologin">Untuk Login</string>
+    <string name="login">Silahkan Login</string>
+    <string name="btnlogin">Tombol Login</string>
+    <string name="register">Registrasi</string>
+    <string name="registerlogo">Gambar registrasi</string>
+    <string name="website">Halaman Website</string>
+    <string name="enter_your_username">Masukkan Username Anda</string>
+    <string name="enter_your_password">Masukkan Pasword Anda</string>
+    <string name="please_do_registration">Silahkan Melakukan Registrasi</string>
+    <string name="enter_your_username_reg">Silahkan Masukkan Username Anda</string>
+    <string name="your_name">Nama Anda</string>
+    <string name="enter_your_password_reg">Masukkan Password</string>
+    <string name="name">Nama</string>
+    <string name="update">Perbaharui</string>
+    <string name="logout_profile">Keluar</string>
+    <string name="don_t_have_an_account_yet_please">Belum mempunyai akun? Silahkan</string>
+</resources>

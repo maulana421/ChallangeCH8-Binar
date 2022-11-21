@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">challenge</string>
+    <string name="tologin">tologin</string>
+    <string name="login">Login</string>
+    <string name="btnlogin">Login</string>
+    <string name="register">register</string>
+    <string name="registerlogo">registerlogo</string>
+    <string name="reglogin" translatable="false">Login</string>
+    <string name="satu" translatable="false">Register</string>
+    <string name="u2022" translatable="false">•</string>
+    <string name="website">WEBSITE</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="please_do_registration">Please do registration</string>
+    <string name="enter_your_username_reg">Enter your username</string>
+    <string name="your_name">Your name</string>
+    <string name="enter_your_password_reg">Enter your password</string>
+    <string name="name">Name</string>
+    <string name="update">Update</string>
+    <string name="logout_profile">Logout</string>
+    <string name="don_t_have_an_account_yet_please">Don\'t have an account yet? Please</string>
+    <string name="castle_in_the_sky" translatable="false">Castle in the Sky</string>
+    <string name="japan_text" translatable="false">天空の城ラピュタ</string>
+    <string name="_1986" translatable="false">1986</string>
+    <string name="_95" translatable="false">95</string>
+    <string name="_124" translatable="false">124</string>
+    <string name="tank_no_shiro_rapyuta" translatable="false">tank_no_shiro_rapyuta</string>
+    <string name="imageview" translatable="false">imageview</string>
+    <string name="person" translatable="false">person</string>
+    <string name="image_to_profile_user" translatable="false">image to profile user</string>
+    <string name="image_to_home_fragment" translatable="false">image to home fragment</string>
+    <string name="movie_app" translatable="false">Movie App</string>
+    <string name="created_by" translatable="false">Created By</string>
+    <string name="maulana_ibnu_fajar" translatable="false">Maulana Ibnu Fajar</string>
+    <string name="update_your_profile" translatable="false">Update Your Profile</string>
+    <string name="enter_new_username" translatable="false">Enter New Username</string>
+    <string name="enter_new_name" translatable="false">Enter New Name</string>
+    <string name="enter_your_password_new" translatable="false">Enter Your Password</string>
+    <string name="update_profile" translatable="false">Update Profile</string>
+    <string name="movie_tittle" translatable="false">Castle in the Sky</string>
+    <string name="japan_tittle" translatable="false">Tenkū no shiro Rapyuta</string>
+    <string name="movie_year" translatable="false">1986</string>
+    <string name="hayao_miyazaki" translatable="false">Hayao Miyazaki</string>
+    <string name="choose_gambar" translatable="false">Pilih Gambar</string>
+    <string name="welcome_back" translatable="false">Welcome</string>
+    <string name="change_languages">Change Languages</string>
+</resources>
